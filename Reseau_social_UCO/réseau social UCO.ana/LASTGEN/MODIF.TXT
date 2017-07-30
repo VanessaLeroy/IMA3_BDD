@@ -1,0 +1,14 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+		FIC-	Professeur	Fichier supprimé Professeur
+		FIC-	Personne	Fichier supprimé Personne
+		FIC-	Membre	Fichier supprimé Membre
+		FIC-	Institut	Fichier supprimé Institut
+		FIC-	Evenement	Fichier supprimé Evenement
+		FIC-	Etudiant	Fichier supprimé Etudiant
+		FIC-	Envoie	Fichier supprimé Envoie
+		FIC-	Association	Fichier supprimé Association
+		FIC-	Appartient	Fichier supprimé Appartient
+		FIC-	Participe	Fichier supprimé Participe
+		FIC-	Visite	Fichier supprimé Visite
+		FIC-	Relation	Fichier supprimé Relation
+		FIC-	Publication	Fichier supprimé Publication

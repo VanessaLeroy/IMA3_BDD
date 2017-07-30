@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Publication		NFI		nouveau fichier
+Suit		FIC-	Publie	Fichier supprimé Publie
+Suit		FIC-	Publication	Fichier supprimé Publication

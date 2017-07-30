@@ -1,0 +1,17 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+		FIC-	Personne	Fichier supprimé Personne
+		FIC-	Membre	Fichier supprimé Membre
+		FIC-	Institut	Fichier supprimé Institut
+		FIC-	Evenement	Fichier supprimé Evenement
+		FIC-	Etudiant	Fichier supprimé Etudiant
+		FIC-	Envoie	Fichier supprimé Envoie
+		FIC-	Cree	Fichier supprimé Cree
+		FIC-	Cours	Fichier supprimé Cours
+		FIC-	Association	Fichier supprimé Association
+		FIC-	Appartient	Fichier supprimé Appartient
+		FIC-	Visite	Fichier supprimé Visite
+		FIC-	Suit	Fichier supprimé Suit
+		FIC-	Relation	Fichier supprimé Relation
+		FIC-	Publication	Fichier supprimé Publication
+		FIC-	Propose	Fichier supprimé Propose
+		FIC-	Professeur	Fichier supprimé Professeur

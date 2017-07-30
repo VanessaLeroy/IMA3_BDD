@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<ANALYSE GenNum="12" VersionStructure="2" RepertoireDefaut="">
+  <CONNEXION Nom="MaConnexion1" Type="15">
+    <SOURCE>192.168.140.13</SOURCE>
+    <USER>BDGroupe1</USER>
+    <MDP>zrg=</MDP>
+    <DB>BDGroupe1</DB>
+    <INFOS_ETENDUES>;Initial Catalog=BDGroupe1</INFOS_ETENDUES>
+  </CONNEXION>
+</ANALYSE>

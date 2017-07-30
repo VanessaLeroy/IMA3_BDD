@@ -1,0 +1,8 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Evenement		TAR	1107	nouvelle taille enregistrement : 1107
+Evenement		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+Evenement	NbParticipants	RUB+		NbParticipants est une nouvelle rubrique
+Participe		NFI		nouveau fichier
+Participe		FIC-	Cours	Fichier supprimé Cours
+Participe		FIC-	Suit	Fichier supprimé Suit
+Participe		FIC-	Propose	Fichier supprimé Propose

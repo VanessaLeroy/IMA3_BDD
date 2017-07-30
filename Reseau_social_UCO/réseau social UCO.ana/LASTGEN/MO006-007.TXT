@@ -1,0 +1,33 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Personne		NFI		nouveau fichier
+Membre		NFI		nouveau fichier
+Institut		NFI		nouveau fichier
+Evenement		NFI		nouveau fichier
+Etudiant		NFI		nouveau fichier
+Envoie		NFI		nouveau fichier
+Cree		NFI		nouveau fichier
+Cours		NFI		nouveau fichier
+Association		NFI		nouveau fichier
+Appartient		NFI		nouveau fichier
+Visite		NFI		nouveau fichier
+Suit		NFI		nouveau fichier
+Relation		NFI		nouveau fichier
+Publication		NFI		nouveau fichier
+Propose		NFI		nouveau fichier
+Professeur		NFI		nouveau fichier
+Professeur		FIC-	Personne	Fichier supprimé Personne
+Professeur		FIC-	Membre	Fichier supprimé Membre
+Professeur		FIC-	Institut	Fichier supprimé Institut
+Professeur		FIC-	Evenement	Fichier supprimé Evenement
+Professeur		FIC-	Etudiant	Fichier supprimé Etudiant
+Professeur		FIC-	Envoie	Fichier supprimé Envoie
+Professeur		FIC-	Cree	Fichier supprimé Cree
+Professeur		FIC-	Cours	Fichier supprimé Cours
+Professeur		FIC-	Association	Fichier supprimé Association
+Professeur		FIC-	Appartient	Fichier supprimé Appartient
+Professeur		FIC-	Visite	Fichier supprimé Visite
+Professeur		FIC-	Suit	Fichier supprimé Suit
+Professeur		FIC-	Relation	Fichier supprimé Relation
+Professeur		FIC-	Publication	Fichier supprimé Publication
+Professeur		FIC-	Propose	Fichier supprimé Propose
+Professeur		FIC-	Professeur	Fichier supprimé Professeur

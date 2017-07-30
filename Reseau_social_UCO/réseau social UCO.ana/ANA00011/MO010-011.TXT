@@ -1,0 +1,6 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Membre		TAR	70	nouvelle taille enregistrement : 70
+Membre		BASE		La base du fichier est passée de SQL générique (ANSI 92) à Inconnue
+Membre	Role	CNW	Mémo texte$Chaîne	la rubrique Role a pour nouveau type Mémo texte
+Participe		TAR	71	nouvelle taille enregistrement : 71
+Participe	NomEvenement	TAI+	22	la rubrique NomEvenement a comme nouvelle taille 31 au lieu de 9

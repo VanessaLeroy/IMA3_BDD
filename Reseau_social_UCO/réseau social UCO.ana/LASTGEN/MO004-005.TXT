@@ -1,0 +1,33 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Professeur		NFI		nouveau fichier
+Personne		NFI		nouveau fichier
+Membre		NFI		nouveau fichier
+Institut		NFI		nouveau fichier
+Evenement		NFI		nouveau fichier
+Etudiant		NFI		nouveau fichier
+Envoie		NFI		nouveau fichier
+Cree		NFI		nouveau fichier
+Cours		NFI		nouveau fichier
+Association		NFI		nouveau fichier
+Appartient		NFI		nouveau fichier
+Visite		NFI		nouveau fichier
+Suit		NFI		nouveau fichier
+Relation		NFI		nouveau fichier
+Publication		NFI		nouveau fichier
+Propose		NFI		nouveau fichier
+Propose		FIC-	Relation	Fichier supprimé Relation
+Propose		FIC-	Propose	Fichier supprimé Propose
+Propose		FIC-	Professeur	Fichier supprimé Professeur
+Propose		FIC-	Personne	Fichier supprimé Personne
+Propose		FIC-	Membre	Fichier supprimé Membre
+Propose		FIC-	Institut	Fichier supprimé Institut
+Propose		FIC-	Evenement	Fichier supprimé Evenement
+Propose		FIC-	Etudiant	Fichier supprimé Etudiant
+Propose		FIC-	Envoie	Fichier supprimé Envoie
+Propose		FIC-	Cree	Fichier supprimé Cree
+Propose		FIC-	Cours	Fichier supprimé Cours
+Propose		FIC-	Association	Fichier supprimé Association
+Propose		FIC-	Appartient	Fichier supprimé Appartient
+Propose		FIC-	Publication	Fichier supprimé Publication
+Propose		FIC-	Visite	Fichier supprimé Visite
+Propose		FIC-	Suit	Fichier supprimé Suit
